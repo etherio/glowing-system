@@ -1,0 +1,10 @@
+{
+  "name": "github-workflow-action",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
